@@ -1,6 +1,8 @@
 # AWS Cost Optimization with Lambda
 
-This project automates AWS resource cleanup to reduce unnecessary costs by identifying and deleting unused resources using an AWS Lambda function.
+**This project automates AWS resource cleanup to reduce unnecessary costs by identifying and deleting unused resources using an AWS Lambda function.**
+
+![Image](https://github.com/user-attachments/assets/d680cf65-3da4-4ab1-b3b9-1a38d0290f4e)
 
 ## Overview
 
