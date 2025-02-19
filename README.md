@@ -1,12 +1,10 @@
 # AWS Cost Optimization with Lambda
 
-**This project automates AWS resource cleanup to reduce unnecessary costs by identifying and deleting unused resources using an AWS Lambda function.**
-
 ![Image](https://github.com/user-attachments/assets/d680cf65-3da4-4ab1-b3b9-1a38d0290f4e)
 
 ## Overview
 
-The AWS Cost Optimization script leverages the **Boto3** library to identify and clean up unused resources in an AWS account. It focuses on:
+This project automates AWS resource cleanup to reduce unnecessary costs by identifying and deleting unused resources using an AWS Lambda function. The AWS Cost Optimization script leverages the **Boto3** library to identify and clean up unused resources in an AWS account. It focuses on:
 
 1. **Elastic IPs**: Releases unused Elastic IPs (EIPs) that are not associated with any instance.
 2. **EBS Snapshots**: Deletes EBS snapshots if their corresponding volumes no longer exist.
