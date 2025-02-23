@@ -1,6 +1,6 @@
 # AWS Cost Optimization with Lambda
 
-![Image](https://github.com/user-attachments/assets/d680cf65-3da4-4ab1-b3b9-1a38d0290f4e)
+![Image](https://github.com/user-attachments/assets/36e536e5-cc18-46a1-b617-0be843024060)
 
 ## Overview
 
